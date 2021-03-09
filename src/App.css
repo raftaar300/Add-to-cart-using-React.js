@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width: 100px;
+  height: 100px;
+}
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+  
+  margin: auto; 
+
+}
+.cart-wrapper{
+  border: 2px solid black;
+  margin-left: 20px;
+  width: 180px;
+}
+.Span{
+    position: relative;
+    text-align: center;
+    width: 20px;
+    height: 5px;
+    font-size: 10px;
+    position: 301px;
+    left: 511px;
+
+    top: -14px;
+}
